@@ -1595,7 +1595,6 @@ export class GuiModel {
                                 "form" : "ModuleForm"
                             }
                         },
-                        
                     ]
                 },
                 {
